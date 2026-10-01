@@ -1,0 +1,22 @@
+flutter_native_splash:
+ 
+
+  color: "#42a5f5"  ##====================================[REQUIRED]==========
+ 
+  image: images/illuminated-aurora-3840x2160-14387.jpg 
+
+
+  
+  fullscreen: true                # default false
+ 
+  
+  #! ANDROID 12+ configuration:
+  android_12:
+    # background color
+    color: "#42a5f5"
+    # color_dark: "#042a49"
+
+   
+    image: images/illuminated-aurora-3840x2160-14387.jpg    
+  
+    icon_background_color: "#111111"
